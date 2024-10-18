@@ -1,0 +1,22 @@
+1. Explain the orchestration of kubernetes...?
+2. What is the difference between state less and state full applications..?
+3. What is the difference between Deployment and Statefulset and explain with example..?
+4. What is PVC and how you are using this component in your current organization..?
+5. How you can configure the ebs volume to a pod..?
+6. Write a sample HPA (Horizantal pod Autoscaler) file..?
+7. How do you configure Argocd for deployment purpose in k8s..?
+8. Default ports of prometheus and grafana..?
+9. Explain Network policies in k8s..?
+10. Write a sample jenkins declerative pipeline..?
+11. What is the use of jenkins file..?
+12. Tell me some jenkins plugins and use cases..?
+13. How do you handle user authentication in jenkins..?
+14. Explain the terraform commands that can be used to deploying a module ..?
+15. What is the use of backend file in terraform..?
+16. what is state file..?
+17. what is the difference between .tf and state file..?
+18. what is sonarlint..?
+19. What are common errors that you are seeing in the kubernetes pods..?
+20. What is the source for prometheus..?
+21. Which database types are using the opensearch and grafana..?
+22. Difference between daemonset and statefulset..? 
